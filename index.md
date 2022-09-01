@@ -1,5 +1,5 @@
 
-# Aneesh Pendyala's Homework 0 Assignment
+# Aneesh Pendyala's First CS 193 Homework
 
 Things that are great about CS 193
 
